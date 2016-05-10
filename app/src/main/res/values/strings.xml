@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RemoApp</string>
+    <string name="title_activity_remo">RemoActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_new">NewActivity</string>
+
+</resources>
